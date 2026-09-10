@@ -18,9 +18,11 @@
 <a href="https://saikatdhrobo.github.io/portfolio-website/">
 <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-0F172A?style=for-the-badge&labelColor=0F172A" />
 </a>
+
 <a href="https://www.linkedin.com/in/jakaria-saikat-dhrobo/">
 <img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:dhrobosaikat4@gmail.com">
 <img src="https://img.shields.io/badge/✉️%20EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -487,40 +489,6 @@ SEO · Analytics
 </tr>
 
 </table>
-
-</div>
-
----
-
-<!-- ======================= GITHUB ======================= -->
-
-<div align="center">
-
-## 📡 SYSTEM ACTIVITY
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=saikatdhrobo&show_icons=true&hide_border=true&theme=transparent&bg_color=00000000&title_color=06B6D4&icon_color=8B5CF6&text_color=94A3B8&rank_icon=github" height="175"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikatdhrobo&layout=compact&hide_border=true&theme=transparent&bg_color=00000000&title_color=06B6D4&text_color=94A3B8" height="175"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=saikatdhrobo&theme=transparent&hide_border=true&ring=06B6D4&fire=8B5CF6&currStreakLabel=06B6D4" />
-
-</div>
-
----
-
-<!-- ======================= CONTRIBUTION ======================= -->
-
-<div align="center">
-
-## 🐍 CONTRIBUTION MATRIX
-
-<br>
-
-<img src="https://raw.githubusercontent.com/saikatdhrobo/saikatdhrobo/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
 
 </div>
 
