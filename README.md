@@ -7,10 +7,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=220&section=header&text=JAKARIA%20SAIKAT%20DHROBO&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%E2%80%A2%20SOFTWARE%20%E2%80%A2%20RESEARCH&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=220&section=header&text=JAKARIA%20SAIKAT%20DHROBO&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%E2%80%A2%20SOFTWARE%20%E2%80%A2%20INTELLIGENT%20SYSTEMS&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/saikatdhrobo">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=750&lines=Research+Assistant+%7C+AI+Engineer;Building+Intelligent+Systems;AI+%C3%97+Machine+Learning+%C3%97+LLMs;Exploring+Agentic+AI;Researching.+Building.+Experimenting." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Software+Developer;Building+Intelligent+Systems;Exploring+LLMs+%26+Agentic+AI;Machine+Learning+%26+AI;Backend+%26+Systems+Engineering;Building.+Breaking.+Learning." />
 </a>
 
 <br>
@@ -18,11 +18,9 @@
 <a href="https://saikatdhrobo.github.io/portfolio-website/">
 <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-0F172A?style=for-the-badge&labelColor=0F172A" />
 </a>
-
 <a href="https://www.linkedin.com/in/jakaria-saikat-dhrobo/">
 <img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
 <a href="mailto:dhrobosaikat4@gmail.com">
 <img src="https://img.shields.io/badge/✉️%20EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -45,7 +43,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3500&pause=1000&color=94A3B8&center=true&vCenter=true&width=800&lines=Research+Assistant;AI+%26+Machine+Learning+Enthusiast;Agentic+AI+%26+LLM+Explorer;Backend+%26+Software+Engineer;Builder+of+Experimental+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3500&pause=1000&color=94A3B8&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Enthusiast;Agentic+AI+%26+LLM+Explorer;Software+%26+Backend+Developer;Builder+of+Experimental+Systems;Always+Learning+Something+New" />
 
 </div>
 
@@ -57,7 +55,7 @@
 
 <td align="center" width="25%">
 
-<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="60"/>
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="65"/>
 
 ### AI
 
@@ -68,34 +66,34 @@ LLMs · Agents
 
 <td align="center" width="25%">
 
-<img src="https://img.icons8.com/fluency/96/brain.png" width="60"/>
+<img src="https://img.icons8.com/fluency/96/source-code.png" width="65"/>
 
-### Intelligence
+### CODE
 
-Reasoning
-Automation
+Python · C++
+Go · JavaScript
 
 </td>
 
 <td align="center" width="25%">
 
-<img src="https://img.icons8.com/fluency/96/code.png" width="60"/>
+<img src="https://img.icons8.com/fluency/96/server.png" width="65"/>
 
-### Engineering
+### SYSTEMS
 
 Backend
-Software Systems
+Distributed Systems
 
 </td>
 
 <td align="center" width="25%">
 
-<img src="https://img.icons8.com/fluency/96/microscope.png" width="60"/>
+<img src="https://img.icons8.com/fluency/96/experimental.png" width="65"/>
 
-### Research
+### EXPERIMENT
 
-Experiments
-Publications
+Ideas → Builds
+Build → Learn
 
 </td>
 
@@ -125,7 +123,12 @@ Publications
 <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/LLMs-7C3AED?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Agentic%20AI-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Software%20Engineering-334155?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Backend-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Distributed%20Systems-EC4899?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Software%20Engineering-F59E0B?style=for-the-badge"/>
 
 </div>
 
@@ -137,7 +140,13 @@ Publications
 
 ## 🚀 THINGS I'VE BUILT
 
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2800&pause=700&color=94A3B8&center=true&vCenter=true&width=700&lines=From+AI+experiments+to+distributed+systems;From+ideas+to+working+software;Different+problems%2C+same+curiosity." />
+
 </div>
+
+<br>
 
 <table align="center">
 
@@ -251,67 +260,11 @@ Skills → Models → Recommendations
 
 </tr>
 
-<tr>
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🧪 DECODELABS
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-06B6D4?style=flat-square"/>
-
-<br><br>
-
-**Applied AI experimentation**
-
-Chatbots · Classification
-Recommendation · Computer Vision
-
-<br>
-
-<a href="https://github.com/saikatdhrobo/DecodeLabs-Internship">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
-</td>
-
-<td width="50%" valign="top">
-
-<div align="center">
-
-### 🖼️ HALKA PHOTO
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Web-334155?style=flat-square"/>
-
-<br><br>
-
-**Fast browser-based image utility**
-
-Compression · Resizing
-JPG · PNG · WEBP
-
-<br>
-
-<a href="https://github.com/saikatdhrobo/Halka-Photo">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-111827?style=for-the-badge&logo=github"/>
-</a>
-
-</div>
-
-</td>
-
-</tr>
-
 </table>
 
-<div align="center">
-
 <br>
+
+<div align="center">
 
 <a href="https://github.com/saikatdhrobo?tab=repositories">
 <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-06B6D4?style=for-the-badge&logo=github&logoColor=white"/>
@@ -321,31 +274,157 @@ JPG · PNG · WEBP
 
 ---
 
-<!-- ======================= RESEARCH ======================= -->
+<!-- ======================= AI ZONE ======================= -->
 
 <div align="center">
 
-## 🔬 RESEARCH MODE
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-Research-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-Research-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Intelligent%20Systems-Research-10B981?style=for-the-badge"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=06B6D4&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Large+Language+Models;Agentic+AI;AI-Assisted+Automation;Data-Driven+Intelligent+Systems" />
-
-<br><br>
-
-### 📄 IEEE ICECTE 2026
-
-**Intelligent Automated Medicine Dispensing
-and Health Management System**
+## 🧠 AI ZONE
 
 <br>
 
-<img src="https://img.shields.io/badge/STATUS-PUBLISHED-10B981?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CONFERENCE-IEEE-00629B?style=for-the-badge&logo=ieee&logoColor=white"/>
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="80"/>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2600&pause=800&color=06B6D4&center=true&vCenter=true&width=750&lines=Machine+Learning;Deep+Learning;Large+Language+Models;Agentic+AI;AI+Agents;Prompt+Engineering;AI-Assisted+Automation" />
+
+<br><br>
+
+<table align="center">
+
+<tr>
+
+<td align="center">
+
+<img src="https://img.icons8.com/fluency/96/brain.png" width="55"/>
+
+<br>
+
+**LEARN**
+
+<br>
+
+Models · Patterns
+
+</td>
+
+<td align="center">
+
+<img src="https://img.icons8.com/fluency/96/bot.png" width="55"/>
+
+<br>
+
+**BUILD**
+
+<br>
+
+Agents · Systems
+
+</td>
+
+<td align="center">
+
+<img src="https://img.icons8.com/fluency/96/code.png" width="55"/>
+
+<br>
+
+**IMPLEMENT**
+
+<br>
+
+APIs · Applications
+
+</td>
+
+<td align="center">
+
+<img src="https://img.icons8.com/fluency/96/innovation.png" width="55"/>
+
+<br>
+
+**EXPERIMENT**
+
+<br>
+
+Ideas · Prototypes
+
+</td>
+
+</tr>
+
+</table>
+
+</div>
+
+---
+
+<!-- ======================= ENGINEERING ======================= -->
+
+<div align="center">
+
+## ⚙️ ENGINEERING STACK
+
+<br>
+
+<table align="center">
+
+<tr>
+
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/python.png" width="60"/>
+
+<br>
+
+**PYTHON**
+
+AI · Automation
+Backend
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/code.png" width="60"/>
+
+<br>
+
+**C++**
+
+Systems
+Performance
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/server.png" width="60"/>
+
+<br>
+
+**BACKEND**
+
+APIs · Databases
+Architecture
+
+</td>
+
+<td align="center" width="25%">
+
+<img src="https://img.icons8.com/fluency/96/cloud-development.png" width="60"/>
+
+<br>
+
+**SYSTEMS**
+
+Distributed
+Infrastructure
+
+</td>
+
+</tr>
+
+</table>
 
 </div>
 
@@ -357,29 +436,15 @@ and Health Management System**
 
 ## 🛰️ EXPERIENCE SIGNAL
 
-</div>
+<br>
 
 <table align="center">
 
 <tr>
 
-<td align="center" width="25%">
+<td align="center">
 
-<img src="https://img.icons8.com/fluency/96/research.png" width="55"/>
-
-<br>
-
-**RESEARCH**
-
-<br>
-
-Research Assistant
-
-</td>
-
-<td align="center" width="25%">
-
-<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="55"/>
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="60"/>
 
 <br>
 
@@ -387,13 +452,13 @@ Research Assistant
 
 <br>
 
-AI · Backend · Agents
+Backend · AI Agents
 
 </td>
 
-<td align="center" width="25%">
+<td align="center">
 
-<img src="https://img.icons8.com/fluency/96/server.png" width="55"/>
+<img src="https://img.icons8.com/fluency/96/source-code.png" width="60"/>
 
 <br>
 
@@ -401,13 +466,13 @@ AI · Backend · Agents
 
 <br>
 
-Backend · Systems
+Applications · APIs
 
 </td>
 
-<td align="center" width="25%">
+<td align="center">
 
-<img src="https://img.icons8.com/fluency/96/google-logo.png" width="55"/>
+<img src="https://img.icons8.com/fluency/96/seo.png" width="60"/>
 
 <br>
 
@@ -422,28 +487,6 @@ SEO · Analytics
 </tr>
 
 </table>
-
----
-
-<!-- ======================= RESEARCH INTERESTS ======================= -->
-
-<div align="center">
-
-## 🧠 RESEARCH INTERESTS
-
-<br>
-
-<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="70"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/fluency/96/brain.png" width="70"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/fluency/96/chatbot.png" width="70"/>
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/fluency/96/data-configuration.png" width="70"/>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2600&pause=700&color=8B5CF6&center=true&vCenter=true&width=800&lines=LLM+Systems;Agentic+AI;AI+Agents;Machine+Learning;Intelligent+Automation;AI+for+Real-World+Problems" />
 
 </div>
 
@@ -469,7 +512,7 @@ SEO · Analytics
 
 ---
 
-<!-- ======================= CONTRIBUTIONS ======================= -->
+<!-- ======================= CONTRIBUTION ======================= -->
 
 <div align="center">
 
@@ -491,35 +534,27 @@ SEO · Analytics
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2400&pause=700&color=8B5CF6&center=true&vCenter=true&width=750&lines=Agentic+AI;LLM+Systems;AI+Research;AI+Agents;Distributed+Systems;Backend+Engineering;Research+%2B+Engineering" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2300&pause=650&color=8B5CF6&center=true&vCenter=true&width=750&lines=Agentic+AI;LLM+Systems;AI+Applications;Machine+Learning;Backend+Engineering;Distributed+Systems;Developer+Tools" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/EXPERIMENTING-06B6D4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RESEARCHING-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/BUILDING-10B981?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/STATUS-EXPERIMENTING-06B6D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MODE-BUILDING-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ENERGY-CURIOUS-F59E0B?style=for-the-badge"/>
 
 </div>
 
 ---
 
-<!-- ======================= EDUCATION ======================= -->
+<!-- ======================= PHILOSOPHY ======================= -->
 
 <div align="center">
 
-## 🎓 ACADEMIC JOURNEY
+## ◈ BUILD PHILOSOPHY
 
 <br>
 
-<img src="https://img.icons8.com/fluency/96/graduation-cap.png" width="70"/>
-
-<br><br>
-
-**IoT & Robotics Engineering**
-
-<br>
-
-<img src="https://img.shields.io/badge/Focus-AI%20%26%20Intelligent%20Systems-06B6D4?style=for-the-badge"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=900&color=94A3B8&center=true&vCenter=true&width=750&lines=Don't+just+use+technology.;Understand+it.;Break+it.;Build+it.;Then+build+something+better." />
 
 </div>
 
@@ -534,19 +569,19 @@ SEO · Analytics
 <br>
 
 <a href="https://saikatdhrobo.github.io/portfolio-website/">
-<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/jakaria-saikat-dhrobo/">
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/saikatdhrobo">
-<img src="https://img.shields.io/badge/💻%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="mailto:dhrobosaikat4@gmail.com">
-<img src="https://img.shields.io/badge/✉️%20EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
@@ -571,10 +606,6 @@ SEO · Analytics
 
 <div align="center">
 
-### BUILD · RESEARCH · EXPERIMENT · REPEAT
-
-<br>
-
-*Trying to make myself unique.*
+**BUILD · BREAK · LEARN · REBUILD**
 
 </div>
