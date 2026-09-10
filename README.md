@@ -13,9 +13,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Software+Developer;Building+Intelligent+Systems;Exploring+LLMs+%26+Agentic+AI;Machine+Learning+%26+AI;Backend+%26+Systems+Engineering;Building.+Breaking.+Learning." />
 </a>
 
-<br>
+<!-- <br> -->
 
-<a href="https://saikatdhrobo.github.io/portfolio-website/">
+<!-- <a href="https://saikatdhrobo.github.io/portfolio-website/">
 <img src="https://img.shields.io/badge/🌐%20PORTFOLIO-0F172A?style=for-the-badge&labelColor=0F172A" />
 </a>
 
@@ -25,11 +25,12 @@
 
 <a href="mailto:dhrobosaikat4@gmail.com">
 <img src="https://img.shields.io/badge/✉️%20EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+</a> -->
 
-<br><br>
+<!-- <br> -->
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=saikatdhrobo&style=for-the-badge&color=06B6D4&label=PROFILE+VISITORS" />
+<!-- <img src="https://komarev.com/ghpvc/?username=saikatdhrobo&style=for-the-badge&color=06B6D4&label=PROFILE+VISITORS" /> -->
 
 </div>
 
