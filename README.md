@@ -7,8 +7,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?<img src="https://img.icons8.com/fluency/96/experimental.png" width="65"/>
-type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=220&section=header&text=JAKARIA%20SAIKAT%20DHROBO&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%E2%80%A2%20SOFTWARE%20%E2%80%A2%20INTELLIGENT%20SYSTEMS&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=220&section=header&text=JAKARIA%20SAIKAT%20DHROBO&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%E2%80%A2%20SOFTWARE%20%E2%80%A2%20INTELLIGENT%20SYSTEMS&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/saikatdhrobo">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=06B6D4&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Software+Developer;Building+Intelligent+Systems;Exploring+LLMs+%26+Agentic+AI;Machine+Learning+%26+AI;Backend+%26+Systems+Engineering;Building.+Breaking.+Learning." />
@@ -62,7 +61,7 @@ type=waving&color=0:0F172A,50:312E81,100:06B6D4&height=220&section=header&text=J
 
 ### AI
 
-ML · DL
+ML · DL  
 LLMs · Agents
 
 </td>
@@ -73,7 +72,7 @@ LLMs · Agents
 
 ### CODE
 
-Python · C++
+Python · C++  
 Go · JavaScript
 
 </td>
@@ -84,14 +83,14 @@ Go · JavaScript
 
 ### SYSTEMS
 
-Backend
+Backend  
 Distributed Systems
 
 </td>
 
 <td align="center" width="25%">
 
-<img src="https://img.icons8.com/fluency/96/test-tube.png" width="65"/>
+<h1>🧪</h1>
 
 ### EXPERIMENT
 
@@ -168,7 +167,7 @@ Build → Learn
 
 **Interactive analytics workspace**
 
-Charts · Data grids
+Charts · Data grids  
 Saved views · Filters
 
 <br>
@@ -194,7 +193,7 @@ Saved views · Filters
 
 **Distributed key-value cache**
 
-Raft consensus · TTL
+Raft consensus · TTL  
 Persistence · Snapshots
 
 <br>
@@ -381,7 +380,7 @@ Ideas · Prototypes
 
 **PYTHON**
 
-AI · Automation
+AI · Automation  
 Backend
 
 </td>
@@ -394,7 +393,7 @@ Backend
 
 **C++**
 
-Systems
+Systems  
 Performance
 
 </td>
@@ -407,7 +406,7 @@ Performance
 
 **BACKEND**
 
-APIs · Databases
+APIs · Databases  
 Architecture
 
 </td>
@@ -420,7 +419,7 @@ Architecture
 
 **SYSTEMS**
 
-Distributed
+Distributed  
 Infrastructure
 
 </td>
